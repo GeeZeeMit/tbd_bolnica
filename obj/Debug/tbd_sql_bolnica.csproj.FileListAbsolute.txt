@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\tbd_sql_bolnica\bin\Debug\tbd_sql_bolnica.exe.config
+C:\Users\Иван\source\repos\tbd_sql_bolnica\bin\Debug\tbd_sql_bolnica.exe
+C:\Users\Иван\source\repos\tbd_sql_bolnica\bin\Debug\tbd_sql_bolnica.pdb
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.Properties.Resources.resources
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.exe
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.pdb
+C:\Users\Иван\source\repos\tbd_sql_bolnica\bin\Debug\blonica.mdf
+C:\Users\Иван\source\repos\tbd_sql_bolnica\bin\Debug\blonica_log.ldf
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\tbd_sql_bolnica\obj\Debug\tbd_sql_bolnica.Form1.resources
