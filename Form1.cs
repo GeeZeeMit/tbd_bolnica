@@ -27,10 +27,6 @@ namespace tbd_sql_bolnica
 
             sqlConnection.Open();
 
-            if (sqlConnection.State == ConnectionState.Open)
-            {
-                MessageBox.Show("Подключение установлено");
-            }
         }
 
         // Ввод данных
